@@ -12,7 +12,7 @@
 
        2. Membuat footer.php
       
-      ![Screenshot (180)](https://user-images.githubusercontent.com/72779594/170851557-2e7002d5-ddc2-4e20-8dc2-31373bef8b4d.png)
+![Screenshot (180)](https://user-images.githubusercontent.com/72779594/170851557-2e7002d5-ddc2-4e20-8dc2-31373bef8b4d.png)
 
        3. membuat file HOME.php
 
