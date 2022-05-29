@@ -27,3 +27,34 @@
 ![Screenshot (184)](https://user-images.githubusercontent.com/72779594/170851640-189fef5d-23b3-4849-888e-962e4d2bbfb2.png)
 
                                                                     --- TUGAS ---
+                                                                    
+
+    DATA BARANG
+    
+![Screenshot (185)](https://user-images.githubusercontent.com/72779594/170851791-6974fdbc-ff1a-4283-891c-bcea9f3769e1.png)
+
+    TAMBAH BARANG
+        
+![Screenshot (186)](https://user-images.githubusercontent.com/72779594/170851814-7bcb9a6a-c100-4bef-92fe-b8285b1a6940.png)
+
+    UBAH BARANG
+    
+![Screenshot (187)](https://user-images.githubusercontent.com/72779594/170851825-f9fcfe77-d884-411c-b325-016f929783ab.png)
+
+    HAPUS BARANG
+    
+![Screenshot (188)](https://user-images.githubusercontent.com/72779594/170851841-458bae45-d4cd-425b-a76b-6f0f6a1bd1e2.png)
+
+![Screenshot (189)](https://user-images.githubusercontent.com/72779594/170851844-f8e4fc17-084b-4d48-81e7-222bd3d67a8e.png)
+
+
+
+
+
+
+
+
+
+
+
+
